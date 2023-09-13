@@ -1,0 +1,11 @@
+{
+  "name": "4-http-srever",
+  "version": "1.0.0",
+  "description": "Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Bitu",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "5-handling-urls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Bitu",
+  "license": "ISC",
+  "dependencies": {
+    "url": "^0.11.1"
+  }
+}

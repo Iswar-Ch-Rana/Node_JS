@@ -1,0 +1,19 @@
+{
+  "name": "12-url-shortener",
+  "version": "1.0.0",
+  "description": "This app short the given url by user",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Iswar Chandra Rana",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "nodemon": "^3.0.1",
+    "shortid": "^2.2.16"
+  }
+}
